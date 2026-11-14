@@ -9,3 +9,5 @@ A Windows desktop app for creating audio CDs, with track ordering, capacity chec
 
 ## Future Updates
 Possibly some sort of push to take list of songs written to CD to screenshot or txt file or printout of some kind that could be put on CD case.
+
+More specifically I think the best option would be some sort of .txt file generated and then from that you can take that .txt file to an optional printout that could be based on default cd case size.
