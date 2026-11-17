@@ -12,6 +12,8 @@ Possibly some sort of push to take list of songs written to CD to screenshot or 
 
 More specifically I think the best option would be some sort of .txt file generated and then from that you can take that .txt file to an optional printout that could be based on default cd case size.
 
+Cd's are awesome!
+
 
 ## Setup and running locally
 
